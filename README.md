@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Romanian-SiMoNERo
 
 
 ## Data Format
